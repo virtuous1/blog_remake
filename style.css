@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(206, 204, 204);
+}
+.header1{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    display: block;
+    color: rgb(27, 27, 99);
+    text-align: center;
+    
+}
+
+ .BP1{
+     background-color: white;
+     margin-top: 20px;
+ }
+ small{
+     color: turquoise;
+ }
+ #container{
+     max-width: 500px;
+     margin-left: 30%;
+     margin-right: 20%;
+ }
+
+ .BP2{
+    background-color: white;
+    margin-top: 2rem;
+}
+ footer{
+     text-align: center;
+ }
