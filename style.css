@@ -19,19 +19,26 @@ body{
  .BP1{
      background-color: white;
      margin-top: 20px;
+     
  }
  small{
      color: turquoise;
  }
  #container{
-     max-width: 500px;
-     margin-left: 30%;
+     max-width: 100rem;
+     margin-left: 20%;
      margin-right: 20%;
+     
  }
 
  .BP2{
     background-color: white;
     margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.post-foot{
+    line-height: 30px;
 }
  footer{
      text-align: center;
