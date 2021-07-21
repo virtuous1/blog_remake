@@ -11,7 +11,7 @@ body{
     height: 50px;
     background-color:white;
     display: block;
-    color: rgb(27, 27, 99);
+    color: rgb(55, 55, 160);
     text-align: center;
     
 }
@@ -19,20 +19,13 @@ body{
  .BP1{
      background-color: white;
      margin-top: 20px;
-     
-     
- }
+     }
+
  small{
      color: turquoise;
- }
- #container{
-     max-width: 100rem;
-     margin-left: 25%;
-     margin-right: 25%;
-     
- }
+     }
 
- .BP2{
+ .BP2 {
     background-color: white;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -43,4 +36,10 @@ body{
 }
  footer{
      text-align: center;
+ }
+
+ #container{
+    max-width: 100rem;
+    margin-left: 25%;
+    margin-right: 25%;
  }
